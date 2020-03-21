@@ -1,8 +1,8 @@
-# timeline
+# Timeline
 
-##### Lista a linha do tempo de compras em lojas, as compras são agrupadas pelo transaciton_id.
+##### Lista uma linha do tempo de compras em lojas, as compras são agrupadas pelo transaciton_id.
 
-## para executar siga as seguintes instruções:
+## Para executar siga as seguintes instruções:
 
 - Clona o ropositório
 
@@ -44,7 +44,7 @@
   npm run start
   ```
 
-###### o terminal deverá retorna o seginte console
+###### O terminal deverá retorna o seginte console
 
 ```bash
 Compiled successfully!
@@ -56,3 +56,6 @@ You can now view timeline in the browser.
 Note that the development build is not optimized.
 To create a production build, use yarn build.
 ```
+
+
+![timeline](https://user-images.githubusercontent.com/54416354/77216601-4928cb80-6afa-11ea-9915-edd0517d5ef0.png)
